@@ -1,0 +1,4 @@
+com/example/controller/UserController.class
+com/example/model/User.class
+com/example/SpringMongoApplication.class
+com/example/repository/UserRepository.class
